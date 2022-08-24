@@ -1,0 +1,17 @@
+#Butilca Rares
+
+This is a program that can be used as a front-end CLI for the implementation of a file system.
+
+This manager has implemented the well-known commands used in linux:
+- cd,
+- touch,
+- mkdir,
+- ls,
+- rm,
+- rmdir(rm -r),
+- pwd,
+- tree,
+- mv.
+
+Once run, the program prompts the user with a CLI shell where they can run all of the above
+commands untill the command stop(equivalent to closing the terminal) is given.
